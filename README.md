@@ -1,3 +1,23 @@
+# Tour of Heroes
+
+The tutorial projects for learning the major aspects of Angular hosted on their website.
+
+- https://angular.io/tutorial
+
+The full solution can be found at this repo, but if you wanted to build it completely on your own you can to to the link and go through the steps yourself.
+
+## Objectives
+
+1. Build source code
+2. Deploy source code locally using Caddy
+3. Deploy source code to a cloud server using Caddy
+4. Dockerize the application
+5. Run the application using the Docker Engine
+
+
+
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
